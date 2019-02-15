@@ -380,9 +380,9 @@
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 
   // Snappy
-  #define DEFAULT_Kp 24.13
-  #define DEFAULT_Ki 2.12
-  #define DEFAULT_Kd 68.70
+  #define DEFAULT_Kp 25.00
+  #define DEFAULT_Ki 1.99
+  #define DEFAULT_Kd 78.33
 
   
   // Ultimaker
